@@ -1,0 +1,28 @@
+﻿English Shadowing Practice by Seongeun Yun
+
+
+귀가 트이는 영어
+Tuesday, November 9th
+Article : The Importance of Online Security
+
+
+In all walks of life, safety is paramount. When it comes to technology, safety is synonymous with security. Everyone should be vigilant to protect their personal data from hackers to insure their online security. Specifically, strong passwords, Two-Factor authentication, and network safety are three important factors to consider. And in the early days of technology, a safe password used to be a 4-digit pin. Today, however, passwords should comprise at least 8 characters that include lower and uppercase letters, numbers and special characters. Further, passwords should be unique. Never use the same password twice. If compromised, a duplicated password could be used to cross multiple sites. A strong password becomes even stronger when coupled with Two-Factor authentication. After entering the password, users are immediately sent the unique code. This code must then be entered correctly to gain access to the site. Since the codes are sent to a trusted device, they help confirm users’ identity. Finally, an often overlooked element of online security is the networks themselves. Have you ever noticed that some URLs start with ‘http’ while others start with ‘https’? That ‘s’ stands for security. If you were logging into a sensitive site like a bank, always look for that ‘s’. If you don’t see it, you might be on the wrong login page, or worse yet, you might be on a fake page. 
+
+
+
+
+입이 트이는 영어
+Tuesday, November 9th
+Talk about Online Security
+
+
+We live in an environment where we can’t make do without the internet. It has such a big impact on all aspects of life that we can hardly do anything without it. We use the internet to go about our business, search for information, and communicate with others on social media. But when we use the internet, we often have to enter our personal information. That’s why it’s so important to pay attention to security. Many people are not familiar with internet security, but for the internet to make our lives safer and more entertaining, security measures are like vaccination shots. You should make sure to install a vaccine on your devices. It’s also best to update your password on a regular basis. Beefing up the security settings for various services is also a good idea. 
+
+
+Dialogue Practice
+A: Online security has become really important in this DNage.
+B: That’s right. 
+A: I never click on a link if I don’t know where it came from. 
+B: Of course not. 
+A: I’ve heard that more and more people are falling victim to smishing schemes.
+B: The only solution is to really practice caution.
